@@ -1,6 +1,6 @@
 # QR-code-generator
 
-#c
+# c
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/86044198/194119508-02195d3f-7557-43ea-b920-f44f2197a3d7.png)
 
