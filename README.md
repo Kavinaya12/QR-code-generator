@@ -1,6 +1,6 @@
 # QR-code-generator
 
-# c
+# c program to encode URL to a QR code & print it on the Linux trerminal.
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/86044198/194119508-02195d3f-7557-43ea-b920-f44f2197a3d7.png)
 
